@@ -28,7 +28,7 @@ Os índices do 5º ano são um pouco melhores, mas ainda assim preocupantes: 57%
 
 Por estes motivos o foco deste trabalho será nos indices de aprendizagem do 9º ano nas matérias de língua portuguesa e matemática.
 
-##### Meu objetivo é explorar as respostas dos questionários respondidos pelos alunos, diretores e professores e classificar se a escola terá indice de aprendizagem adequado em lingua portuguesa e/ou matemática nas oitavas séries (nono ano) das escolas brasileiras. 
+#### Meu objetivo é explorar as respostas dos questionários respondidos pelos alunos, diretores e professores e classificar se a escola terá indice de aprendizagem adequado em lingua portuguesa e/ou matemática nas oitavas séries (nono ano) das escolas brasileiras. 
 
 Adicionalmente pretendo entender quais são as características que fazem cada escola atigir ou não o nível adequado de aprendizado nestas matérias.
 
